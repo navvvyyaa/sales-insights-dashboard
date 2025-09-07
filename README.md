@@ -110,11 +110,6 @@ A set of SQL queries is included in `Sales_Insights_Analysis.sql` to extract mea
 
 ---
 
-## 📸 Screenshots
-(Add screenshots of your Excel dashboard here — like the Adidas/Bike Sales examples)  
-
----
-
 ## 📝 Future Improvements
 - Automating dashboard refresh with Power BI / Tableau  
 - Expanding SQL queries for deeper business insights  
