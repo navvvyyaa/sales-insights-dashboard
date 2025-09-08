@@ -30,7 +30,7 @@ Key objectives:
 - **Size:** ~500,000 rows  
 - **Fields:** InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country
 - **Original Dataset (Raw):** [UCI Machine Learning Repository – Online Retail](https://archive.ics.uci.edu/ml/datasets/online+retail)  
-- **Cleaned Dataset (CSV):** [View on Kaggle](https://www.kaggle.com/datasets/navvyaa/online-retail-dataset-cleaned-csv)  
+- **Cleaned Dataset (CSV):** [View on Kaggle](https://www.kaggle.com/datasets/navvyaa/online-retail-dataset)  
 
 The cleaned dataset removes nulls, canceled orders, and formatting issues, and is used in this analysis.  
 
