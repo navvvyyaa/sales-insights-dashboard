@@ -57,7 +57,7 @@ We performed **Recency, Frequency, Monetary (RFM) analysis** to segment customer
 - **Frequency (F):** Number of orders per customer  
 - **Monetary (M):** Total spend by customer  
 
-👉 [Download RFM Analysis Results (CSV)](analysis/rfm_analysis.csv)  
+👉 [Download RFM Analysis Results (CSV)](data/rfm_analysis)  
   
 
 ---
