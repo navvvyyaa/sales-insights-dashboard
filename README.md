@@ -73,7 +73,7 @@ Designed an **interactive Excel dashboard** with slicers and visualizations:
 
 ---
 
-### ⚡ Power BI Dashboard
+## ⚡ Power BI Dashboard
 A **modern, interactive Power BI dashboard** designed for deeper visual storytelling:  
 - Advanced KPI cards with dynamic tooltips  
 - Filters by country, month, and product  
