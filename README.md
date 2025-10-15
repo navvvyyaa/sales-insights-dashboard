@@ -71,6 +71,8 @@ Designed an **interactive Excel dashboard** with slicers and visualizations:
 - Order frequency analysis per customer  
 - KPI cards for Revenue, Customers, Orders, and Period
 
+---
+
 ### ⚡ Power BI Dashboard
 A **modern, interactive Power BI dashboard** designed for deeper visual storytelling:  
 - Advanced KPI cards with dynamic tooltips  
