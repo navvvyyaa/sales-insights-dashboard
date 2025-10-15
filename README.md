@@ -7,9 +7,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ms-excel.png" alt="Excel" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> </p>
 </p>  
 
-An interactive **data analysis project** that uncovers key business insights from an **E-commerce dataset** using **Python, Excel, and SQL**. The project simulates a **Business Analyst / Data Analyst workflow** — from data cleaning and exploration to building an interactive dashboard for decision-making.  
+An interactive **data analysis and visualization project** that uncovers key business insights from an **E-commerce dataset** using **Python, SQL, Excel and Power BI**. The project simulates a **Business Analyst / Data Analyst workflow** — from data cleaning and exploration to building interactive dashboards for data-driven decision-making.
 
 ---
 
@@ -19,7 +20,7 @@ The goal of this project is to help businesses track sales performance, identify
 Key objectives:  
 - Clean and preprocess raw transactional sales data  
 - Perform **exploratory data analysis (EDA)** using Python (pandas, matplotlib, seaborn)  
-- Build **KPI-driven dashboards** in Excel for interactive insights  
+- Build **KPI-driven dashboards** in both Excel and Power BI for interactive insights  
 - Write **SQL queries** for deeper business insights
 - Apply **RFM analysis** for customer segmentation  
 
@@ -68,14 +69,23 @@ Designed an **interactive Excel dashboard** with slicers and visualizations:
 - Line chart for monthly revenue trends  
 - Pie chart for customer segments  
 - Order frequency analysis per customer  
-- KPI cards for Revenue, Customers, Orders, and Period  
+- KPI cards for Revenue, Customers, Orders, and Period
+
+### ⚡ Power BI Dashboard
+A **modern, interactive Power BI dashboard** designed for deeper visual storytelling:  
+- Advanced KPI cards with dynamic tooltips  
+- Filters by country, month, and product  
+- Trend analysis visuals (line & area charts)  
+- Customer segmentation visuals from RFM data  
+- Drill-through pages for detailed product and customer insights  
 
 ---
 
 ## 🛠 Tools & Technologies
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Excel:** Pivot Tables, Slicers, Interactive Charts  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
 - **SQL (MySQL):** Querying cleaned dataset for business insights  
+- **Excel:** Pivot Tables, Slicers, Interactive Charts
+- **Power BI:** Interactive visualization and analytics 
 - **Other:** GitHub for version control  
 
 ---
@@ -94,8 +104,9 @@ Designed an **interactive Excel dashboard** with slicers and visualizations:
 ```bash
    jupyter notebook Sales_Insights.ipynb
 ```
-4. Open **Sales_Insights_Dashboard.xlsx** in Excel for the dashboard  
-5. Run SQL queries in **Sales_Insights_Analysis.sql** using MySQL Workbench  
+4. Open **Sales_Insights_Dashboard.xlsx** in Excel for the dashboard
+5. Open Sales_Insights_PowerBI.pbix in Power BI Desktop
+6. Run SQL queries in **Sales_Insights_Analysis.sql** using MySQL Workbench  
 
 ---
 
@@ -111,7 +122,7 @@ A set of SQL queries is included in `Sales_Insights_Analysis.sql` to extract mea
 ---
 
 ## 📝 Future Improvements
-- Automating dashboard refresh with Power BI / Tableau  
+- Automate data refresh using Power BI Gateway
 - Expanding SQL queries for deeper business insights  
 - Predictive analytics using ML models
 - Deploying dashboard for business users
